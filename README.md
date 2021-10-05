@@ -1,11 +1,11 @@
 # [![waylon walker header](https://github.com/rumy14/rumy14/blob/main/Github%20Banner.png)](#)
 
 <p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://github.com/rumy14/rumy14/blob/main/Github%20Banner.png"></a>
+  <a href="https://waylonwalker.com/latest-story.png"><img width="150" height="100" align='right' src="https://github.com/rumy14/rumy14/blob/main/Github%20Banner.png"></a>
 </p>
 
 <p align='center'>
-<a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/rumy103040"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
